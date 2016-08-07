@@ -1,4 +1,4 @@
 ## Terrys section
-- any ols stuff
+- any old stuff
 more and more
 - more stuff
