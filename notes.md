@@ -1,5 +1,5 @@
 ## Terrys section
-- any ols stuff
+- some old stuff
 - more stuff
 
 ## Sam's section
